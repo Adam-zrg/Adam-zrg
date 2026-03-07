@@ -1,8 +1,8 @@
-# Adam Zerroug
+# Adam Zarga
 
 **Quantitative Finance & Engineering Student**
 
-Passionate about the intersection of financial markets, quantitative modeling, and software development.
+Passionate about the intersection of financial markets, data science, and software development.
 I build tools that combine mathematical rigor with clean, efficient implementation.
 
 ---
@@ -27,10 +27,10 @@ Git · Docker · Streamlit
 
 | Project | Description | Stack |
 |---|---|---|
-| [C++ Pricing Engine](https://github.com/Adam-zrg/Cpp-Pricing-Project) | Modular OOP architecture — Black-Scholes, Monte Carlo, CRR binomial tree | C++ |
+| [C++ Pricing Engine](https://github.com/Adam-zrg/Cpp-Pricing-Project) | Modular OOP architecture : Black-Scholes, Monte Carlo, CRR binomial tree | C++ |
 | [Portfolio Backtester](https://github.com/Adam-zrg/Streamlit-Portfolio-Backtester) | Configurable backtesting framework with Streamlit UI, deployed via Docker | Python · Streamlit · Docker |
 | [Portfolio Risk & VaR](https://github.com/Adam-zrg/Portfolio-Risk-Analysis-and-Value-at-Risk-VBA-) | Portfolio risk analysis and Value at Risk computation tool | VBA |
-| [CFM-ENS ML Challenge](https://github.com/Adam-zrg/CFM-ENS-Machine-Learning) | End-of-day auction volume prediction — QRT x ENS competition | Python · ML |
+| [CFM-ENS ML Challenge](https://github.com/Adam-zrg/CFM-ENS-Machine-Learning) | End-of-day auction volume prediction : CFM x ENS competition | Python · ML |
 
 ---
 
