@@ -27,10 +27,11 @@ Git · Docker · Streamlit
 
 | Project | Description | Stack |
 |---|---|---|
-| [C++ Pricing Engine](https://github.com/Adam-zrg/Cpp-Pricing-Project) | Modular OOP architecture : Black-Scholes, Monte Carlo, CRR binomial tree | C++ |
 | [Portfolio Backtester](https://github.com/Adam-zrg/Streamlit-Portfolio-Backtester) | Configurable backtesting framework with Streamlit UI, deployed via Docker | Python · Streamlit · Docker |
-| [Portfolio Risk & VaR](https://github.com/Adam-zrg/Portfolio-Risk-Analysis-and-Value-at-Risk-VBA-) | Portfolio risk analysis and Value at Risk computation tool | VBA |
 | [CFM-ENS ML Challenge](https://github.com/Adam-zrg/CFM-ENS-Machine-Learning) | End-of-day auction volume prediction : CFM x ENS competition | Python · ML |
+| [C++ Pricing Engine](https://github.com/Adam-zrg/Cpp-Pricing-Project) | Modular OOP architecture : Black-Scholes, Monte Carlo, CRR binomial tree | C++ |
+| [Portfolio Risk & VaR](https://github.com/Adam-zrg/Portfolio-Risk-Analysis-and-Value-at-Risk-VBA-) | Portfolio risk analysis and Value at Risk computation tool | VBA |
+
 
 ---
 
